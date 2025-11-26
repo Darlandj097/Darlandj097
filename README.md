@@ -2,13 +2,13 @@
 
  Sou um **Analista de Sistemas** e **Especialista em Infraestrutura** apaixonado por conectar tecnologia e resultados de negócio.
 
-🎓 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** (UNINASSAU) e sou formado em Marketing Digital . Possuo mais de 7 anos de experiência prática fundindo desenvolvimento de software com gestão de redes .
+🎓 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** (UNINASSAU) e sou formado em Marketing Digital. Possuo mais de 7 anos de experiência prática fundindo desenvolvimento de software com gestão de redes.
 
 ### 🚀 Sobre Mim
-* 🔭 Atualmente estou focado em **Desenvolvimento Web** e Mobile com **Python**, **Node.js** e **Flutter** .
-* 💼 Fundador da **Darlan Net**, onde gerencio infraestrutura de fibra óptica e servidores Linux .
-* 📈 Tenho forte background em **Marketing Digital**, focado em ROI e conversão para E-commerce .
-* ⚙️ Adoro automação! Tenho experiência reduzindo downtime de servidores com **Zabbix** e **Grafana** .
+* 🔭 Atualmente estou focado em **Desenvolvimento Web** e Mobile com **Python**, **Node.js** e **Flutter**.
+* 💼 Fundador da **Darlan Net**, onde gerencio infraestrutura de fibra óptica e servidores Linux.
+* 📈 Tenho forte background em **Marketing Digital**, focado em ROI e conversão para E-commerce.
+* ⚙️ Adoro automação! Tenho experiência reduzindo downtime de servidores com **Zabbix** e **Grafana**.
 
 ---
 
@@ -40,7 +40,7 @@
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darlandj097&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darlandj097&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darlandj097&layout=compact&theme=radical"/>
 </div>
 
